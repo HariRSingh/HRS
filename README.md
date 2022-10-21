@@ -1,4 +1,4 @@
-# HRS
+# Segment Nuclei plugin 
 
 [![License BSD-3](https://img.shields.io/pypi/l/HRS.svg?color=green)](https://github.com/githubuser/HRS/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/HRS.svg?color=green)](https://pypi.org/project/HRS)
