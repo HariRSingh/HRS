@@ -7,7 +7,7 @@
 [![codecov](https://codecov.io/gh/githubuser/HRS/branch/main/graph/badge.svg)](https://codecov.io/gh/githubuser/HRS)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/HRS)](https://napari-hub.org/plugins/HRS)
 
-LATER 
+This plugin segment nuclei after otsu threshold 
 
 ----------------------------------
 
