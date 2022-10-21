@@ -25,7 +25,7 @@ https://napari.org/stable/plugins/index.html
 
 You can install `HRS` via [pip]:
 
-    pip install https://github.com/HariRSingh/HRS
+    pip install https://github.com/HariRSingh/HRS.git
 
 
 
